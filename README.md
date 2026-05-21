@@ -256,7 +256,7 @@ Módulo analítico empresarial.
 # 📂 Estructura del proyecto
 
 ```bash
-PartyBookingSystem/
+PlataformaReservacionEventosFiestas/
 │
 ├── src/
 │   ├── controllers/
@@ -367,7 +367,7 @@ Usuario → Venue → Reservación → Pago → Confirmación → Gestión
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/amr641/your-party-booking-repo.git
+git clone https://github.com/isairey/PlataformaReservacionEventosFiestas.git
 ```
 
 ---
@@ -375,7 +375,7 @@ git clone https://github.com/amr641/your-party-booking-repo.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd your-party-booking-repo
+cd PlataformaReservacionEventosFiestas
 ```
 
 ---
@@ -526,7 +526,7 @@ git push origin feature/nueva-funcionalidad
 
 <div align="center">
 
-## Full Stack Developer
+## Isai Reyes - Full Stack Developer
 
 Desarrollador apasionado por plataformas empresariales, APIs modernas y sistemas escalables 🚀
 
