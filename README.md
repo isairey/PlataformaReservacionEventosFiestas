@@ -432,27 +432,7 @@ https://documenter.getpostman.com/view/36174729/2sAY4uBNZF
 
 ---
 
-# 📸 Vista previa
 
-## 🖥️ Interfaces del sistema
-
-<div align="center">
-
-### 📊 Dashboard administrativo
-![Dashboard](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200)
-
-### 🎉 Gestión de eventos
-![Events](https://images.unsplash.com/photo-1511578314322-379afb476865?q=80&w=1200)
-
-### 🏛️ Reservación de venues
-![Venues](https://images.unsplash.com/photo-1497366754035-f200968a6e72?q=80&w=1200)
-
-### 💳 Pagos y transacciones
-![Payments](https://images.unsplash.com/photo-1556740749-887f6717d7e4?q=80&w=1200)
-
-</div>
-
----
 
 # 👥 Roles del sistema
 
